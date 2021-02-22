@@ -8,10 +8,10 @@
 
 ## How to reach me: :point_down:
 :email: [Email][email] **|** 
-:office: [LinkedIn][linkedin] 
+:office: [LinkedIn][linkedin]
 
 [email]: mailto:arturjankowskigm@gmail.com
-[linkedin]: linkedin.com/in/artur-jankowski-0a26231b4
+[linkedin]: http://linkedin.com/in/artur-jankowski-0a26231b4
 
 ## Languages and Tools:
 - 🚀 I use and learn daily:
