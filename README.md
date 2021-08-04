@@ -1,3 +1,4 @@
+
 # Hi there <img src="https://raw.githubusercontent.com/arturJan4/arturJan4/master/wave.gif" width="30px">. I'm Artur.
 
 - :books: student of Computer Science at University Of Wrocław, Poland ([repository](https://github.com/arturJan4/University))
@@ -15,12 +16,12 @@
 
 ## Languages and Tools:
 - 🚀 I use and learn daily:
-  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=plastic&logo=c%2B%2B&logoColor=white)
+  ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
+  ![Go](https://img.shields.io/badge/-Go-E34F26?style=plastic&logo=go&logoColor=white)
   ![Linux](https://img.shields.io/badge/Linux-black?style=plastic&logo=linux)
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code)
   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
   ![VIM](https://img.shields.io/badge/-VIM-E34F26?style=plastic&logo=vim)
-  ![CMake](https://img.shields.io/badge/-CMake-black?style=plastic&logo=CMake&logoColor=white)
 
 
 - 💻 I used before and know a little about:
@@ -30,7 +31,9 @@
   ![jQuery](https://img.shields.io/badge/Jquery%20-%230769AD.svg?&style=plastic&logo=jquery&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap%20-%23563D7C.svg?&style=plastic&logo=bootstrap&logoColor=white)
   ![Figma](https://img.shields.io/badge/Figma%20-%23F24E1E.svg?&style=plastic&logo=figma&logoColor=white)
-  ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
+  ![UiPath](https://img.shields.io/badge/-%23%20UiPath-black?style=plastic&logo=)
+  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=plastic&logo=c%2B%2B&logoColor=white)
+  ![CMake](https://img.shields.io/badge/-CMake-black?style=plastic&logo=CMake&logoColor=white)
   ![C/C#](https://img.shields.io/badge/-C/C%23-E34F26?style=plastic&logo=c)
   ![SFML](https://img.shields.io/badge/-SFML-black?style=plastic&logo=SFML)
   ![Latex](https://img.shields.io/badge/Latex%20-%23008080.svg?&style=plastic&logo=latex&logoColor=white)
