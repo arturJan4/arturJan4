@@ -33,7 +33,7 @@
   ![UiPath](https://img.shields.io/badge/-%23%20UiPath-black?style=plastic&logo=)
   ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=plastic&logo=c%2B%2B&logoColor=white)
   ![CMake](https://img.shields.io/badge/-CMake-black?style=plastic&logo=CMake&logoColor=white)
-  ![C/C#](https://img.shields.io/badge/-C/C%23-E34F26?style=plastic&logo=c)
+  ![C](https://img.shields.io/badge/-C-E34F26?style=plastic&logo=c)
   ![SFML](https://img.shields.io/badge/-SFML-black?style=plastic&logo=SFML)
   ![Latex](https://img.shields.io/badge/Latex%20-%23008080.svg?&style=plastic&logo=latex&logoColor=white)
   ![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?&style=plastic&logo=markdown&logoColor=white)
