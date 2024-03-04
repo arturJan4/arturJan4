@@ -37,11 +37,13 @@
   ![SFML](https://img.shields.io/badge/-SFML-black?style=plastic&logo=SFML)
   ![Latex](https://img.shields.io/badge/Latex%20-%23008080.svg?&style=plastic&logo=latex&logoColor=white)
   ![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?&style=plastic&logo=markdown&logoColor=white)
-  
-## My Stats
-![Artur's GitHub stats](https://github-readme-stats.vercel.app/api?username=arturJan4&show_icons=true&theme=radical&hide=issues,contribs&include_all_commits=true)
 
+<!-- 
+TODO:broken
+## My Stats
+[Artur's GitHub stats](https://github-readme-stats.vercel.app/api?username=arturJan4&show_icons=true&theme=radical&hide=issues,contribs&include_all_commits=true)
+-->
 ## Random Joke
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=vue-dark)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=arturJan4)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=arturJan4&countColor=%23263759)
