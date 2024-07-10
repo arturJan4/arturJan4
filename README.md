@@ -2,9 +2,9 @@
 # Hi there <img src="https://raw.githubusercontent.com/arturJan4/arturJan4/master/wave.gif" width="30px">. I'm Artur.
 
 - :books: student of Computer Science at University Of Wrocław, Poland ([repository](https://github.com/arturJan4/University))
-- :bulb: currently grokking Go
-- :snake: on the side I learn a lot of random stuff (Linux, Vim, Python, Graphics, ML etc.)
-- ⚡ fun fact: I can solve a Rubik's cube in under 30 seconds 
+- :bulb: currently grokking Python & Go
+- :snake: on the side I learn a lot of random stuff (Linux, Python, ML etc.)
+- ⚡ fun fact: I can solve a Rubik's cube in under 20 seconds 
 
 ## How to reach me: :point_down:
 :email: [Email][email] **|** 
